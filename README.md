@@ -15,6 +15,9 @@ I'm Killian: Software engineer & chronic overthinker.
 - Contraptions.ai - Suite of AI-based tools for productivity improvement.
 - LagerHoger - E-commerce price tracker for the Benelux. (Development paused).
 
+## Have worked on...
+- [uman.ai](https://www.uman.ai/) - As the first engineer, I helped uman get from 0 to 1 by creating the first iteration of their platform.
+
 ## Interested in my services?
 **Let's talk!**
 
