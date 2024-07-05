@@ -5,7 +5,7 @@ I'm Killian: Software engineer & chronic overthinker.
 ## I ...
 - **Develop** in Python, Javascript & Golang, with the addition of other languages as necessary. 🐍
 - **Use** FastAPI, Vue 3 and Go as my web development stack. With Postgresql & Redis as my preferred databases. 🏗
-- **Deploy** containerized applications with Docker and Kubernetes. 🐳
+- **Deploy** containerized applications with Docker & Kubernetes. 🐳
 
 ## Currently working on
 - [Just Russel](https://justrussel.com) - Helping Just Russel scale by ensuring its platform & infrastructure keep up with ever-increasing demand.
