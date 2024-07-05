@@ -7,7 +7,7 @@ I'm Killian: Software engineer & chronic overthinker.
 - **Develop for the web** with FastAPI, Vue 3, Go, Postgresql & Redis. 🌐
 - **Provision infrastructure** using Terraform, cloud-init & a good old shell. 🏗
 - **Deploy** applications with Docker, Kubernetes & serverless. 🐳
-- **Secure** platforms using industry-standard practices of defense-in-depth & proactive penetration testing. 
+- **Secure** platforms using industry-standard practices of defense-in-depth & proactive penetration testing. 👮‍♂️
 
 ## Am currently working on...
 - [Just Russel](https://justrussel.com) - Helping Just Russel scale by ensuring its platform & infrastructure keep up with ever-increasing demand.
