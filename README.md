@@ -2,11 +2,12 @@
 
 I'm Killian: Software engineer & chronic overthinker.
 
-## I can...
-- **Write** Python, Javascript & Golang. I'm familiar with Rust and learn other languages as necessary. 🐍
-- **Develop for the web** with FastAPI, Vue 3 and Go. With Postgresql & Redis as my preferred databases. 🏗
-- **Provision infrastructure** using Terraform, cloud-init & the good old shell.
-- **Deploy** containerized applications with Docker, Kubernetes & Serverless solutions such as Cloud Run. 🐳
+## I...
+- **Write code** in Python, Javascript & Golang. Also familiar with Rust & C++, learning other languages as necessary. 🐍
+- **Develop for the web** with FastAPI, Vue 3, Go, Postgresql & Redis. 🌐
+- **Provision infrastructure** using Terraform, cloud-init & a good old shell. 🏗
+- **Deploy** applications with Docker, Kubernetes & serverless. 🐳
+- **Secure** platforms using industry-standard practices of defense-in-depth & proactive penetration testing. 
 
 ## Currently working on...
 - [Just Russel](https://justrussel.com) - Helping Just Russel scale by ensuring its platform & infrastructure keep up with ever-increasing demand.
