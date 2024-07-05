@@ -9,8 +9,13 @@ I'm Killian: Software engineer & chronic overthinker.
 - **Deploy** applications with Docker, Kubernetes & serverless. 🐳
 - **Secure** platforms using industry-standard practices of defense-in-depth & proactive penetration testing. 
 
-## Currently working on...
+## Am currently working on...
 - [Just Russel](https://justrussel.com) - Helping Just Russel scale by ensuring its platform & infrastructure keep up with ever-increasing demand.
 - [Supermake](https://github.com/KillianMeersman/Supermake) - A modern CI/CD tool with a Make-like syntax, focussed on containerized flows.
 - Contraptions.ai - Suite of AI-based tools for productivity improvement.
 - LagerHoger - E-commerce price tracker for the Benelux. (Development paused).
+
+## Interested in my services?
+**Let's talk!**
+
+Contact me using my email or the contact form on my website, I'll get back to you ASAP.
