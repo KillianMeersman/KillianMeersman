@@ -3,8 +3,8 @@
 I'm Killian: Software engineer & chronic overthinker.
 
 ## I ...
-- **Develop** in Python, Javascript & Golang, with the addition of other languages as necessary. 🐍
-- **Use** FastAPI, Vue 3 and Go as my web development stack. With Postgresql & Redis as my preferred databases. 🏗
+- **Know** Python, Javascript & Golang. I'm familiar with Rust and learn other languages as necessary. 🐍
+- **Develop for the web** with FastAPI, Vue 3 and Go. With Postgresql & Redis as my preferred databases. 🏗
 - **Deploy** containerized applications with Docker & Kubernetes. 🐳
 
 ## Currently working on
