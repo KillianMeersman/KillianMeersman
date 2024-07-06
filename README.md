@@ -16,7 +16,7 @@ I'm Killian: Software engineer & chronic overthinker.
 - LagerHoger - E-commerce price tracker for the Benelux. (Development paused).
 
 ## Have worked on...
-- [uman.ai](https://www.uman.ai/) - As a first engineer, I helped uman get from 0 to 1 by creating the first iteration of their platform.
+- [uman.ai](https://www.uman.ai/) - As a founding engineer, I helped uman get from 0 to 1 by creating the first iteration of their platform.
 
 ## Interested in my services?
 **Let's talk!**
