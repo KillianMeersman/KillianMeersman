@@ -18,7 +18,7 @@ I'm Killian: Software engineer & chronic overthinker.
 ## Have worked on...
 - [uman.ai](https://www.uman.ai/) - As a founding engineer, I helped uman get from 0 to 1 by creating the first iteration of their platform.
 
-## Interested in my services?
+## Want to work together?
 **Let's talk!**
 
 Contact me using my email or the contact form on my website, I'll get back to you ASAP.
