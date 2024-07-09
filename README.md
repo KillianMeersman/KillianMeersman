@@ -3,9 +3,9 @@
 I'm Killian: Software engineer & chronic overthinker.
 
 ## I...
-- **Write code** in Python, Javascript & Golang. Also familiar with Rust & C++, learning other languages as necessary. 🐍
-- **Develop for the web** with FastAPI, Vue, Go, Postgresql & Redis. 🌐
-- **Provision infrastructure** using Terraform, cloud-init & a good old shell. 🏗
+- **Write** code in Python, Javascript & Golang. Also familiar with Rust & C++, learning other languages as necessary. 🐍
+- **Develop** for the web with FastAPI, Vue, Go, Postgresql & Redis. 🌐
+- **Provision** infrastructure using Terraform, cloud-init & a good old shell. 🏗
 - **Deploy** applications with Docker, Kubernetes & serverless. 🐳
 - **Secure** platforms using industry-standard practices of defense-in-depth & proactive penetration testing. 👮‍♂️
 
