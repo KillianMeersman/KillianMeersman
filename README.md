@@ -5,7 +5,10 @@ I'm Killian: Software engineer, chronic overthinker & start-up addict.
 ## I do...
 - **Software Engineering**: Software architecture and coding in Python, Javascript (Vue & React), Go & Rust. 
 - **DevOps**: Set up infrastructure using IaC, monitoring using OpenTelemetry, Grafana stack; Both on-prem & in the cloud.
-- **SecOps**: Secure platforms using industry-standard practices of defense-in-depth & proactive penetration testing.
+- **Platform Engineering**: Built a self-service platform that manages deployments to Kubernetes, serverless & DNS records to allevate DevOps workload @ Just Russel. 
+
+## Currently working on...
+- To be announced 🥷
 
 ## Have worked on...
 - **[Just Russel](https://justrussel.com) • Founding Engineer**: Helped JR scale from tiny start-up to to ~50M ARR.
