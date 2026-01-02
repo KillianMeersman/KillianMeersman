@@ -15,8 +15,8 @@ I'm Killian: Software engineer & chronic overthinker.
 - LagerHoger - E-commerce price tracker for the Benelux. (Development paused).
 
 ## Have worked on...
-- [Just Russel](https://justrussel.com) - Founding Engineer. Helped JR scale from tiny start-up to to ~50M ARR.
-- [uman.ai](https://www.uman.ai/) - Founding Engineer. Built the first iteration of their platform through multiple pivots until PMF.
+- **[Just Russel](https://justrussel.com) • Founding Engineer**: Helped JR scale from tiny start-up to to ~50M ARR.
+- **[uman.ai](https://www.uman.ai/) • Founding Engineer**: Built the first iteration of their platform through multiple pivots until PMF.
 
 ## Want to work together?
 **Let's talk!**
