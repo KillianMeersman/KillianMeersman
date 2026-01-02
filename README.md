@@ -12,7 +12,7 @@ I'm Killian: Software engineer, chronic overthinker & start-up addict.
 
 ## Have worked on...
 - **[Just Russel](https://justrussel.com) • Founding Engineer**: Helped Just Russel scale from tiny start-up to to ~50M ARR.
-- **[TransDirect](https://transdirect.be) • Freelance Software Engineer**: Extended TransDirect's transport management system with a carrier portal.
+- **[TransDirect](https://transdirect.be) • Freelance Software Engineer**: Enhanced TransDirect's transport management system with a carrier portal.
 - **[uman.ai](https://www.uman.ai/) • Founding Engineer**: Built the first iteration of their platform through multiple pivots until PMF.
 
 ## Want to talk?
