@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Killian: Software engineer & chronic overthinker.
+I'm Killian: Software engineer, chronic overthinker & start-up addict.
 
 ## I do...
 - **Software Engineering**: Software architecture and coding in Python, Javascript (Vue & React), Go & Rust. 
